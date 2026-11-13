@@ -61,4 +61,9 @@ git commit -m "Add element for showing high score"
 Make null pointer pattern easier to complete
 ```
 
+### 画面での確認
+
+- **Explorer** の `stack-overflown/src` にある2つのファイルを使います。編集後は保存してからターミナルで `git diff` を実行します。
+- 差分では、削除した行に `-`、追加した行に `+` が付きます。**Source Control** で `+` を押したあとは **Staged Changes** のファイルを開いて確認します。
+
 [原文](https://github.com/skills/introduction-to-git/blob/main/.github/steps/4-step.md)

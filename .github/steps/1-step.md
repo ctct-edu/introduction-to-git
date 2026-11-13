@@ -32,4 +32,10 @@ git config --global user.email "me@example.com"
 git config --global --list
 ```
 
+### 画面での確認
+
+- ブラウザー上部で演習 Issue を開いたタブは残します。Codespace の作成画面では **Repository** に自分のユーザー名／演習名が表示されていることを確認し、緑色の **Create codespace** を押します。
+- VS Code の左端にある書類のアイコンが **Explorer** です。左のファイル一覧で `stack-overflown` → `src` → `index.html` を探します。ターミナルはエディターの下に表示されます。
+- `git --version` でバージョンが表示され、設定一覧で `user.name` と `user.email` が自分の入力値になっていることを確認します。
+
 [原文](https://github.com/skills/introduction-to-git/blob/main/.github/steps/1-step.md)

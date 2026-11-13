@@ -12,4 +12,8 @@
 - [ ] コミットメッセージから履歴を詳しく追えること
 - [ ] 「最終版」の ZIP ファイルを増やさずに済むこと
 
+### 画面での確認
+
+- Codespace のタブから、GitHub の演習 Issue を開いているタブに戻ります。この Step 6 が書かれているコメント内の四角いチェック欄を選び、同じ Issue の下に振り返りが追加されるのを待ちます。
+
 [原文](https://github.com/skills/introduction-to-git/blob/main/.github/steps/6-step.md)

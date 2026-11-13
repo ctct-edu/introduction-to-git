@@ -130,4 +130,9 @@ function checkPatternMatch() {
 Add logic to calculate level
 ```
 
+### 画面での確認
+
+- ブランチ名は VS Code の左下で確認します。最高スコアの変更中は `fix-incomplete-high-score`、レベル表示の変更中は `add-level-counter` です。
+- コミット後、左の **Source Control** の **Graph** で指定のコミットメッセージを確認します。マージ前に左下が `main` であること、マージ後は変更が履歴に含まれることを確認します。
+
 [原文](https://github.com/skills/introduction-to-git/blob/main/.github/steps/5-step.md)

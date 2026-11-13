@@ -72,4 +72,10 @@ Start game documentation
 Start developer docs
 ```
 
+### 画面での確認
+
+- ターミナルで `cd` を実行したあと、入力待ちの行に `stack-overflown` が表示されることを確認します。
+- 左の **Explorer** で `stack-overflown` を選び、一覧上部の **New File** アイコンを押します。`README.md` が `src` の外にあることを確認します。
+- 左端の枝分かれアイコンが **Source Control** です。ファイル名にカーソルを合わせて `+` を押すと、**Changes** から **Staged Changes** に移ります。上部の入力欄にコミットメッセージを書き、**Commit** を選びます。
+
 [原文](https://github.com/skills/introduction-to-git/blob/main/.github/steps/2-step.md)

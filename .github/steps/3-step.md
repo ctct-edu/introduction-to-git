@@ -29,4 +29,9 @@ git checkout <commit id>
 git checkout main
 ```
 
+### 画面での確認
+
+- `git log` が画面を占有した場合は `q` で入力待ちに戻ります。`<commit id>` は、表示されたコミットの識別子に山括弧ごと置き換えます。
+- **Source Control** の **Graph** で、コミット名をクリックすると、そのコミットで変更したファイルが表示されます。最後に `main` に戻り、**Explorer** に `README.md` があることを確認します。
+
 [原文](https://github.com/skills/introduction-to-git/blob/main/.github/steps/3-step.md)
